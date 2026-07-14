@@ -9,6 +9,11 @@ program, teaching through real production code instead of toy examples.
 
 ## A few projects worth a look
 
+**[genetic_pets](https://github.com/arpan2711/genetic_pets)**
+A browser-based evolution simulator: soft-body creatures made of nodes and
+oscillating muscles learn to walk purely through a mutation-driven genetic
+algorithm, no hand-coded animation involved.
+
 **[market-email-project](https://github.com/arpan2711/market-email-project)**
 Stock market tools built up piece by piece: a CLI ticker, a local
 refresh-to-update price/news page, and a RAG chatbot that answers questions
